@@ -14,3 +14,4 @@ INSERT INTO burgers (
     "Mushroom & Swiss Double Cheese Burger",
     0
 );
+
